@@ -16,7 +16,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.marcatsussex.TestApp"
+      "bundleIdentifier": "com.testing.TestApp"
     },
     "android": {
       "adaptiveIcon": {
